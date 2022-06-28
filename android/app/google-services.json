@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "619506961865",
+    "project_id": "notfied",
+    "storage_bucket": "notfied.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619506961865:android:898b5f9699ec00d728ec18",
+        "android_client_info": {
+          "package_name": "com.example.notified_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619506961865-ma8i73m74rcp4f4e0t9chtpp90trbmnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGPdtdfdmJuajSOJgEzKx2LPdXCyXGVSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619506961865-ma8i73m74rcp4f4e0t9chtpp90trbmnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
